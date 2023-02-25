@@ -45,10 +45,10 @@
 <br />
 
 <br>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hediyeorhan&langs_count=10&layout=compact&hide=html" alt="hediyeorhan" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmervekeles7&langs_count=10&layout=compact&hide=html" alt="mmervekeles7" />
   <br/>
-    <a href="https://github.com/hediyeorhan/github-readme-stats"><img alt="hediyeorhan's Github Stats" 
-       src="https://github-readme-stats.vercel.app/api?username=hediyeorhan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+    <a href="https://github.com/mmervekeles7/github-readme-stats"><img alt="mmervekeles7's Github Stats" 
+       src="https://github-readme-stats.vercel.app/api?username=mmervekeles7&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
     </a>
   <br/>
 
