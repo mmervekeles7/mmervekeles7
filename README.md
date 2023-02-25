@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmervekeles7" alt="mmervekeles7" /> </p>
 
-✨I describe myself as someone who is hungry for knowledge and dedicated to learning. Using my research skills and experience, I continue to progress in life with the philosophy of "be your own teacher".
+✨I describe myself as someone who is hungry for knowledge and dedicated to learning. Using my research skills and experience, I continue to progress in life with the philosophy of "Be your own teacher.".
 
 ✔   I am a Management Information Systems student in Necmettin Erbakan University.
 
