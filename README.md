@@ -6,7 +6,7 @@
 
 ✔   I am a Management Information Systems student in Necmettin Erbakan University.
 
-✔   My goal is to improve myself in the field of backend developer and to be very good in this field.
+✔   My goal is to improve myself in the field of backend and to be very good in this field.
 
 ✔   .
 
