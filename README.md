@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Merve</h1>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/hediyeorhaan?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fhediyeorhaan&screen_name=hediyeorhaan)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Mervekeles1907?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FMervekeles1907&screen_name=Mervekeles1907)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hediyeorhan" alt="hediyeorhan" /> </p>
 
